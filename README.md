@@ -6,8 +6,8 @@
 3. third phase
 
 #### ***functionalties***
-*student 1
-*student 2
+* student 1
+* student 2
 -[x] task 01
--[] task 02
--[]task 03
+-[ ] task 02
+-[ ] task 03
